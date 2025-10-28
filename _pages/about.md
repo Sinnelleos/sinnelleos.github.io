@@ -27,7 +27,7 @@ latest_posts:
 
 Welcome! I'm Sinnelleos. Or at least, that's the handle I've been using the longest. With it, I've met quite a few people through my hobbies. But I realized that every time I went into a new room, I'd put on a different face to try and fit in. That drowned me under a suffocating feeling of loneliness.
 
-So I decided there wasn't a better place to stitch together all my masks, than on the one that set the stage in the first place. The whole wide web!
+So I decided the best place to stitch together all my masks, is the very same stage that made it possible. The whole wide web!
 
 Here you will find the recollection of my slow descent into madness, as I remember every little corner of the internet I found myself in. And most importantly, the people I met there.
 
