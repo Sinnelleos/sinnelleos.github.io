@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Reconciling my internet adventures.*
+subtitle: "*Reconciling my internet adventures.*"
 
 profile:
   align: right
