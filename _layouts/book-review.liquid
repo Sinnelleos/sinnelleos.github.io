@@ -15,32 +15,32 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-	{% if page.author or page.released or page.isbn %}
-	  <p class="post-meta">
-		{% if page.author %}
-		  {{ page.author }}
-		{% endif %}
-		{% assign show_separator_before_released = false %}
-		{% if page.author and page.released %}
-		  {% assign show_separator_before_released = true %}
-		{% endif %}
+    {% if page.author or page.released or page.isbn %}
+      <p class="post-meta">
+        {% if page.author %}
+          {{ page.author }}
+        {% endif %}
+        {% assign show_separator_before_released = false %}
+        {% if page.author and page.released %}
+          {% assign show_separator_before_released = true %}
+        {% endif %}
 
-		{% if page.released %}
-		  {% if show_separator_before_released %} &nbsp;&middot;&nbsp; {% endif %}
-		  {{ page.released }}
-		{% endif %}
+        {% if page.released %}
+          {% if show_separator_before_released %} &nbsp;&middot;&nbsp; {% endif %}
+          {{ page.released }}
+        {% endif %}
 
-		{% assign show_separator_before_isbn = false %}
-		{% if page.isbn and (page.author or page.released) %}
-		  {% assign show_separator_before_isbn = true %}
-		{% endif %}
+        {% assign show_separator_before_isbn = false %}
+        {% if page.isbn and (page.author or page.released) %}
+          {% assign show_separator_before_isbn = true %}
+        {% endif %}
 
-		{% if page.isbn %}
-		  {% if show_separator_before_isbn %} &nbsp;&middot;&nbsp; {% endif %}
-		  ISBN: {{ page.isbn }}
-		{% endif %}
-	  </p>
-	{% endif %}
+        {% if page.isbn %}
+          {% if show_separator_before_isbn %} &nbsp;&middot;&nbsp; {% endif %}
+          ISBN: {{ page.isbn }}
+        {% endif %}
+      </p>
+    {% endif %}
     {% if page.started or page.finished or page.stars %}
       <p class="post-meta">
         {% if page.started %}
