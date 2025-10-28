@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Reconciling my internet adventures.
+subtitle: "*Reconciling my internet adventures.*"
 
 profile:
   align: right
@@ -25,10 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome in! I'm Sinnelleos. Or at least, that is the handle I've been using for the longest time. I've known a lot of people through many different hobbies. But one day, I realized that each and every one of those people only saw the face I decided to show them. And that drowned me under an immense feeling of loneliness.
+Welcome! I'm Sinnelleos. Or at least, that's the handle I've been using the longest. With it, I've met quite a few people through my hobbies. But I realized that every time I went into a new room, I'd put on a different face to try and fit in. That drowned me under a suffocating feeling of loneliness.
 
-So I decided that there wasn't a better place for me to show all my faces, than the one that set the stage in the first place. The whole wide web!
+So I decided there wasn't a better place to stitch together all my masks, than on the one that set the stage in the first place. The whole wide web!
 
-Here you will find the recollection of my slow descent to madness, as I remember every little corner of the internet I found myself in. And most importantly, the people I met there.
+Here you will find the recollection of my slow descent into madness, as I remember every little corner of the internet I found myself in. And most importantly, the people I met there.
 
 I'll also be posting my impressions of the books I'm reading, and revisiting some of my favorite anime.
+
+Hope you enjoy your stay, and thanks for reading.
