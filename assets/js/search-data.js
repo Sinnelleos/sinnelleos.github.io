@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{
+        },{id: "post-exploración-de-la-patagonia-sur-i-my-thoughts",
+        
+          title: "Exploración de la Patagonia sur I, my thoughts",
+        
+        description: "My impressions after reading &quot;Exploración de la Patagonia sur I&quot; by Francisco P. Moreno.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/exploracion-de-la-patagonia-sur-1-thoughts/";
+          
+        },
+      },{
         id: 'social-discord',
         title: 'Discord',
         section: 'Socials',
