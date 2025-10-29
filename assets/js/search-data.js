@@ -31,34 +31,34 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/exploracion-de-la-patagonia-sur-1-thoughts/";
+            window.location.href = "/blog/2025/exploracion-patagonia-1-thoughts/";
           
         },
-      },{id: "books-at-the-existentialist-café",
-          title: 'At the Existentialist Café',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/at_the_existentialist_cafe/";
-            },},{id: "books-exploración-de-la-patagonia-sur-i",
-          title: 'Exploración De La Patagonia Sur I',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/exploracion_patagonia_1/";
-            },},{id: "books-the-influence-of-sea-power-upon-history-1660-1783",
-          title: 'The Influence of Sea Power upon History, 1660-1783',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/influence_sea_power/";
-            },},{id: "books-the-catcher-in-the-rye",
+      },{id: "books-the-catcher-in-the-rye",
           title: 'The Catcher in the Rye',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_catcher_in_the_rye/";
+              window.location.href = "/books/catcher_in_the_rye/";
+            },},{id: "books-at-the-existentialist-café",
+          title: 'At the Existentialist Café',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/existentialist_cafe/";
+            },},{id: "books-exploración-de-la-patagonia-sur-i",
+          title: 'Exploración de la Patagonia sur I',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/exploracion_patagonia_1/";
             },},{id: "books-the-ghost-in-the-machine",
           title: 'The Ghost in the Machine',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_ghost_in_the_machine/";
+              window.location.href = "/books/ghost_in_the_machine/";
+            },},{id: "books-the-influence-of-sea-power-upon-history-1660-1783",
+          title: 'The Influence of Sea Power upon History, 1660-1783',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sea_power_history/";
             },},{
         id: 'social-discord',
         title: 'Discord',
