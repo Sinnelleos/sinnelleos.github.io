@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: true
 ---
 
-[Book in question.](https://sinne.link/books/catcher-in-the-rye)
+[Book in question](https://sinne.link/books/catcher-in-the-rye).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -24,4 +24,4 @@ status: Finished
 >
 > -- Goodreads
 
-[Link to my blog post.](https://sinne.link/blog/2025/catcher-in-the-rye-thoughts/).
+[Link to my blog post](https://sinne.link/blog/2025/catcher-in-the-rye-thoughts/).

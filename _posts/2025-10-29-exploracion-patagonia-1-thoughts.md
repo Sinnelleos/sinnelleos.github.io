@@ -9,7 +9,7 @@ giscus_comments: true
 related_posts: true
 ---
 
-[Book in question.](https://sinne.link/books/exploracion_patagonia_1)
+[Book in question](https://sinne.link/books/exploracion-patagonia-1).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -17,7 +17,7 @@ related_posts: true
     </div>    
 </div>
 <div class="caption">
-    Picture from <a href="https://pixabay.com/es/users/sandrocisternas-5020022/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5367864">Sandro Cisternas</a> in <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5367864">Pixabay</a>
+    Picture from <a href="https://pixabay.com/es/users/sandrocisternas-5020022/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5367864">Sandro</a> in <a href="https://pixabay.com/es//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5367864">Pixabay</a>
 </div>
 
 This book was a gift from a coworker who was getting rid of stuff after spring cleaning. I was hoping for a bit more sea navigation stories, but there were enough mentions of Piedrabuena with his _Santa Cruz_, and FitzRoy with his _Beagle_ to make me happy.

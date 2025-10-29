@@ -26,16 +26,15 @@ layout: default
         {% endif %}
 
         {% if page.released %}
-           {% if show_separator_before_released %} &nbsp;&middot;&nbsp; {% endif %}  {{ page.released }}
+          {% if show_separator_before_released %} &nbsp;&middot;&nbsp; {% endif %}
+          {{ page.released }}
         {% endif %}
 
-         {% assign show_separator_before_isbn = false %}
+        {% assign show_separator_before_isbn = false %}
         {% if page.isbn %}
-
           {% if page.author or page.released %}
-             {% assign show_separator_before_isbn = true %}
+            {% assign show_separator_before_isbn = true %}
           {% endif %}
-
         {% endif %}
 
         {% if page.isbn %}
