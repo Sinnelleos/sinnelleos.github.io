@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Exploración De La Patagonia Sur I
+title: Exploración de la Patagonia sur I
 author: Francisco Pascasio Moreno
 cover: assets/img/book_covers/exploracion_patagonia_1.jpg
 isbn: 9789507542220
@@ -18,4 +18,4 @@ status: Finished
 >
 > -- Goodreads
 
-Link to my blog post.
+[Link to my blog post](https://sinne.link/blog/2025/exploracion-patagonia-1-thoughts/).

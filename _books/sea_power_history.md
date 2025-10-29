@@ -2,15 +2,15 @@
 layout: book-review
 title: The Influence of Sea Power upon History, 1660-1783
 author: Alfred Thayer Mahan
-cover: assets/img/book_covers/influence_sea_power.jpg
+cover: assets/img/book_covers/sea_power_history.jpg
 isbn: 9781108023719
 tags: [ships, naval history]
 categories: [books, history, war]
 buy_link: https://www.amazon.es/Exploraci%C3%B3n-Patagonia-cuencas-Chubut-1876-1877/dp/9507542221
-started: 
-finished: 
+started:
+finished:
 released: 1890
-stars: 
+stars:
 status: Queued
 ---
 
