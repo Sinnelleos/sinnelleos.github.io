@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-exploración-de-la-patagonia-sur-i-my-thoughts",
+        },{id: "post-the-catcher-in-the-rye-my-thoughts",
+        
+          title: "The Catcher in the Rye, my thoughts",
+        
+        description: "My impressions after reading &quot;The Catcher in the Rye&quot; by J.D. Salinger.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/catcher-in-the-rye-thoughts/";
+          
+        },
+      },{id: "post-exploración-de-la-patagonia-sur-i-my-thoughts",
         
           title: "Exploración de la Patagonia sur I, my thoughts",
         
@@ -38,27 +49,27 @@ ninja.data = [{
           title: 'The Catcher in the Rye',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/catcher_in_the_rye/";
+              window.location.href = "/books/catcher-in-the-rye/";
             },},{id: "books-at-the-existentialist-café",
           title: 'At the Existentialist Café',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/existentialist_cafe/";
+              window.location.href = "/books/existentialist-cafe/";
             },},{id: "books-exploración-de-la-patagonia-sur-i",
           title: 'Exploración de la Patagonia sur I',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/exploracion_patagonia_1/";
+              window.location.href = "/books/exploracion-patagonia-1/";
             },},{id: "books-the-ghost-in-the-machine",
           title: 'The Ghost in the Machine',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/ghost_in_the_machine/";
+              window.location.href = "/books/ghost-in-the-machine/";
             },},{id: "books-the-influence-of-sea-power-upon-history-1660-1783",
           title: 'The Influence of Sea Power upon History, 1660-1783',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/sea_power_history/";
+              window.location.href = "/books/sea-power-history/";
             },},{
         id: 'social-discord',
         title: 'Discord',
