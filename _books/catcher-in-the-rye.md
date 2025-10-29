@@ -2,7 +2,7 @@
 layout: book-review
 title: The Catcher in the Rye
 author: J.D. Salinger
-cover: assets/img/book_covers/catcher_in_the_rye.jpg
+cover: assets/img/book_covers/catcher-in-the-rye.jpg
 isbn: 9780316769174
 tags: [classics, fiction, coming of age]
 categories: books
@@ -24,4 +24,4 @@ status: Finished
 >
 > -- Goodreads
 
-Link to my blog post.
+[Link to my blog post.](https://sinne.link/blog/2025/catcher-in-the-rye-thoughts/).

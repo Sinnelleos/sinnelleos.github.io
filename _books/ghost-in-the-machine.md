@@ -2,7 +2,7 @@
 layout: book-review
 title: The Ghost in the Machine
 author: Arthur Koestler
-cover: assets/img/book_covers/ghost_in_the_machine.jpg
+cover: assets/img/book_covers/ghost-in-the-machine.jpg
 isbn: 9780140191929
 tags:
 categories: [books, science, philosophy, psychology]

@@ -2,7 +2,7 @@
 layout: book-review
 title: At the Existentialist Café
 author: Sarah Bakewell
-cover: assets/img/book_covers/existentialist_cafe.jpg
+cover: assets/img/book_covers/existentialist-cafe.jpg
 isbn: 9780701186586
 tags: Existentialism
 categories: [books, philosophy]

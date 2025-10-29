@@ -2,7 +2,7 @@
 layout: book-review
 title: The Influence of Sea Power upon History, 1660-1783
 author: Alfred Thayer Mahan
-cover: assets/img/book_covers/sea_power_history.jpg
+cover: assets/img/book_covers/sea-power-history.jpg
 isbn: 9781108023719
 tags: [ships, naval history]
 categories: [books, history, war]

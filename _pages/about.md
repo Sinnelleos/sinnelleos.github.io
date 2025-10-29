@@ -25,11 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I'm Sinnelleos. Or at least, that's the handle I've been using the longest. With it, I've met quite a few people through my hobbies. But most of them only know who I was on that particular endeavour. That fills me with loneliness.
+Welcome! I'm **Sinnelleos**. Or at least, that's the handle I've been using the longest. With it, I've met quite a few people through my hobbies. But most of them only know who I was on that particular endeavour. That fills me with **loneliness**.
 
 So I decided the best place to stitch together all my masks, is the very stage that made them possible: the whole wide web!
 
-Here, you will find the recollection of my slow descent into madness as I remember every little corner of the internet I found myself in. And most importantly, the people I met there.
+Here, you will find the recollection of my slow descent into madness as I remember every little corner of the internet I found myself in. And most importantly, the **people I met there.**
 
 I'll also be posting my impressions of the books I'm reading, and revisiting some of my favorite anime.
 
