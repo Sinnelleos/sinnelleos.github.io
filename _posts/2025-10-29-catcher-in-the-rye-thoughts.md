@@ -7,6 +7,7 @@ tags: classics fiction
 categories: [book reviews]
 giscus_comments: true
 related_posts: true
+thumbnail: assets/img/5add7591561375.5e34b20cf1e57.gif
 ---
 
 [Book in question](https://sinne.link/books/catcher-in-the-rye).

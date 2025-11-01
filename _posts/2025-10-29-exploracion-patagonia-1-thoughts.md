@@ -7,6 +7,7 @@ tags: Patagonia
 categories: [book reviews, Argentina]
 giscus_comments: true
 related_posts: true
+thumbnail: assets/img/clouds-5367864_1920.jpg
 ---
 
 [Book in question](https://sinne.link/books/exploracion-patagonia-1).
