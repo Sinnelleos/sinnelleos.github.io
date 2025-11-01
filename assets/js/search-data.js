@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-the-catcher-in-the-rye-my-thoughts",
+        },{id: "post-until-next-time-peanut",
+        
+          title: "Until next time, Peanut",
+        
+        description: "Just me wishing well to League&#39;s greatest jungler.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/until-next-time-peanut/";
+          
+        },
+      },{id: "post-the-catcher-in-the-rye-my-thoughts",
         
           title: "The Catcher in the Rye, my thoughts",
         
