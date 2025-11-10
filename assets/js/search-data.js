@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-until-next-time-peanut",
+        },{id: "post-the-strange-case-of-dr-jekyll-and-mr-hyde-my-thoughts",
+        
+          title: "The Strange Case of Dr. Jekyll and Mr. Hyde, my thoughts",
+        
+        description: "My impressions after reading &quot;The Strange Case of Dr. Jekyll and Mr. Hyde&quot; by Robert Louis Stevenson.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/dr-jekyll-and-mr-hyde-thoughts/";
+          
+        },
+      },{id: "post-until-next-time-peanut",
         
           title: "Until next time, Peanut",
         
@@ -53,7 +64,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/exploracion-patagonia-1-thoughts/";
+            window.location.href = "/blog/2025/exploracion-patagonia-1-thoughts-copia/";
           
         },
       },{id: "books-the-catcher-in-the-rye",
@@ -61,6 +72,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/catcher-in-the-rye/";
+            },},{id: "books-the-strange-case-of-dr-jekyll-and-mr-hyde",
+          title: 'The Strange Case of Dr Jekyll and Mr Hyde',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/dr-jekyll-and-mr-hyde/";
             },},{id: "books-at-the-existentialist-café",
           title: 'At the Existentialist Café',
           description: "",
