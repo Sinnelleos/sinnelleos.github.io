@@ -15,9 +15,9 @@ images:
 
 ## The Project
 
-Halloween came and went but it left me wondering about something. _What's the classic literary monster that aligns the most with Rei Ayanami?_ Now, the question itself might seem random, but in truth what appealed the most to me to make it a personal project are the means in which to answer said question. And that is, reading a bunch of classics, and rexamine a character that I've often overlooked.
+Halloween came and went but it left me wondering about something. What's the **classic literary monster** that aligns the most with **Rei Ayanami**? Now, the question itself might seem random, and the truth is I'm less interested in the answer than on how to get to it. And that is, reading a bunch of classics, and reexamining a character that I've often overlooked.
 
-We will start by taking a closer look at who Rei is, who she is not, and what she looks like! Once we have a better understanding of her we will be able to compare her struggles and her looks to our guest monsters: Jekyll, Frankenstein, Dorian, and Gregor.
+We will start by taking a closer look at **who Rei is**, who she is not, and even what she looks like! Once we have a better understanding of her we'll be able to compare her struggles and her appeareance to that of our **guest monsters**: Jekyll, Frankenstein, Dorian, and Gregor.
 
 ### Who Rei is
 
@@ -85,7 +85,7 @@ Rei II wants to return to nothingness through death, yet Gendo continually bring
 
 A doll.
 
-### Rei's appareance
+### Rei's appearance
 
 "The girl you long for, but there is nothing about her that you can hold. "
 
@@ -93,40 +93,55 @@ https://www.youtube.com/watch?v=6iQTX085790
 
 ## The Case of Jekyll
 
-If you want to learn more about how to customize the table of contents of your sidebar, you can check the [bootstrap-toc](https://afeld.github.io/bootstrap-toc/) documentation. Notice that you can even customize the text of the heading that will be displayed on the sidebar.
+[Link to my general overview of The Srange Case of Dr. Jekyll and Mr. Hyde](https://sinne.link/blog/2025/dr-jekyll-and-mr-hyde-thoughts/).
 
 ### Similarities
 
-I can see similarities between the characters, mainly the inner turmoil they share. Both of them have this conflict of wills inside, with their characters arcs concluding on their most honest selves triumphing over the rest. Both also seem to not only take on this quest inwards towards themselves, but try to understand man in general through their own conflicts. I think if we bring Gendo to the picture, we can make a nice analogy, the way Dr. Jekyll and Mr. Hyde are thought of father and son (despite being one and the same). Because then we have both Gendo and Jekyll creating Rei and Hyde with the purpose of satisfying their own needs, with the laters rebelling against this imperative and ultimately betraying their masters. Hyde is also said to be a return of a more primal version of man. And with Rei being part Lilith, which is the matriarch of all humanity, well, maybe they aren't that different after all.
+Both characters have an inner turmoil, a conflict of wills (although for Jekyll they are his own, for Rei it's her mix of souls), and both end up succumbing to **the most honest part of themselves**.
+
+Both characters are on a quest to understand and **assimilate their humanity** (in Rei's case, however much of it she has).
+
+If we bring Gendo into the picture, then there's a nice parallelism with him and Jekyll creating Rei and Hyde for **the purpose of satisfying their own wants**. With the latter ones **rebelling** against their creator.
+
+Hyde is also said to be a return of a more **primal version** of man. And Rei, being part Lilith, is also a direct connection to the **roots of mankind**. Also you know, the whole Instrumentality thing and returning to being primordial soup.
 
 ### Differences
 
-Main difference would be that while Mr. Hyde's is a natural, human part of Dr. Jekyll, that is brought out by artificial means. Rei is completely artificial from the get go. And while Dr. Jekyll is sick of playing pretend and putting up facades, Rei is completely devoid of them and wishes to fit in more. So ethically speaking, while Rei wants to go from neutral to good, Jekyll wants to go the opposite direction, from good to evil. Also, Hyde is innately passionate. He's beastly desires incarnated. Meanwhile Rei is the complete opposite. She's nihilism personificated.
+Main difference would be that Hyde is a **natural**, human part of Jekyll, that's brought out by artificial means. Meanwhile Rei is **artificially created**.
 
-### Appareances
+Morally speaking, they go in **opposite directions**. Jekyll goes from good to evil, while Rei goes from neutral-good to good.
 
-There are quite a few things to play along about their appareance. Hyde's most popular adjective is the fact that he's smaller than Jekyll. And we do have a version of Rei that's also smaller than the one we know, that being Rei I as a child, which consecuently is also Rei's most ruthless version.
+Hyde is **innately passionate**. He's beastly desires incarnated. Meanwhile Rei is the complete opposite. She's **stoicism personified**.
+
+### Appearances
+
+Hyde's most defining trait is being **shorter** and **younger-looking** than Jekyll. And we happen to also have a shorter, younger version of Rei, that being Rei I as a child. Interestingly enough, she's likewise her most **ruthless** version.
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/rei/rei00.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/rei/jekyll00.jpeg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
-Hyde is also described as being malformed, and in this case I can't help but remember when Armisael infiltrated Rei's body, giving her this deformed, vein like appareance.
+While Hyde actual appearance is vaguely described, he's said to give _a strong feeling of deformity_. So, I can't help but remember when Armisael infiltrated Rei's body, giving her this veiny appearance.
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/rei/rei01.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/rei/jekyll01.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
-Finally, while masks aren't actually featured neither on the novella or the anime, they are a constant theme on both. With portadas of the novella featuring Mr. Hyde taking off Dr.Jekyll's mask, and tons of popular fanarts of Rei showing her with Lilith's mask.
+Hyde uses a mask when trying to pass off as Jekyll. Although Rei herself isn't shown wearing a mask, Lilith does.
 
 <img-comparison-slider>
   {% include figure.liquid path="assets/img/rei/rei02.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
   {% include figure.liquid path="assets/img/rei/jekyll02.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
 
-Rei's clones, naked and this psycothic gaze, are as raw as the depictions we get of Hyde.
+They both seem to have a crazy stare to me.
+
+<img-comparison-slider>
+  {% include figure.liquid path="assets/img/rei/rei03.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/rei/jekyll03.jpg" class="img-fluid rounded z-depth-1" slot="second" %}
+</img-comparison-slider>
 
 ## The Case of Frankenstein
 
@@ -140,7 +155,7 @@ Nunc tempus, ante eu vestibulum vestibulum, justo dui feugiat risus, ut egestas 
 
 Maecenas nec magna consequat, laoreet eros sed, malesuada velit. Morbi tincidunt faucibus dolor, eget tempus nulla aliquam sit amet. Nunc at magna sit amet nulla vestibulum pulvinar sed in risus. Curabitur in iaculis enim. In pellentesque varius arcu, in cursus erat volutpat et. In hac habitasse platea dictumst. Cras commodo orci laoreet arcu porttitor, at volutpat massa bibendum. Suspendisse imperdiet interdum dolor, et convallis nibh mollis vitae. In efficitur, leo nec viverra viverra, justo libero ornare sapien, eu maximus arcu sem nec nibh.
 
-### Appareances
+### Appearances
 
 Maecenas nec magna consequat, laoreet eros sed, malesuada velit. Morbi tincidunt faucibus dolor, eget tempus nulla aliquam sit amet. Nunc at magna sit amet nulla vestibulum pulvinar sed in risus. Curabitur in iaculis enim. In pellentesque varius arcu, in cursus erat volutpat et. In hac habitasse platea dictumst. Cras commodo orci laoreet arcu porttitor, at volutpat massa bibendum. Suspendisse imperdiet interdum dolor, et convallis nibh mollis vitae. In efficitur, leo nec viverra viverra, justo libero ornare sapien, eu maximus arcu sem nec nibh.
 
@@ -156,7 +171,7 @@ Nunc tempus, ante eu vestibulum vestibulum, justo dui feugiat risus, ut egestas 
 
 Maecenas nec magna consequat, laoreet eros sed, malesuada velit. Morbi tincidunt faucibus dolor, eget tempus nulla aliquam sit amet. Nunc at magna sit amet nulla vestibulum pulvinar sed in risus. Curabitur in iaculis enim. In pellentesque varius arcu, in cursus erat volutpat et. In hac habitasse platea dictumst. Cras commodo orci laoreet arcu porttitor, at volutpat massa bibendum. Suspendisse imperdiet interdum dolor, et convallis nibh mollis vitae. In efficitur, leo nec viverra viverra, justo libero ornare sapien, eu maximus arcu sem nec nibh.
 
-### Appareances
+### Appearances
 
 Maecenas nec magna consequat, laoreet eros sed, malesuada velit. Morbi tincidunt faucibus dolor, eget tempus nulla aliquam sit amet. Nunc at magna sit amet nulla vestibulum pulvinar sed in risus. Curabitur in iaculis enim. In pellentesque varius arcu, in cursus erat volutpat et. In hac habitasse platea dictumst. Cras commodo orci laoreet arcu porttitor, at volutpat massa bibendum. Suspendisse imperdiet interdum dolor, et convallis nibh mollis vitae. In efficitur, leo nec viverra viverra, justo libero ornare sapien, eu maximus arcu sem nec nibh.
 
@@ -172,6 +187,6 @@ Nunc tempus, ante eu vestibulum vestibulum, justo dui feugiat risus, ut egestas 
 
 Maecenas nec magna consequat, laoreet eros sed, malesuada velit. Morbi tincidunt faucibus dolor, eget tempus nulla aliquam sit amet. Nunc at magna sit amet nulla vestibulum pulvinar sed in risus. Curabitur in iaculis enim. In pellentesque varius arcu, in cursus erat volutpat et. In hac habitasse platea dictumst. Cras commodo orci laoreet arcu porttitor, at volutpat massa bibendum. Suspendisse imperdiet interdum dolor, et convallis nibh mollis vitae. In efficitur, leo nec viverra viverra, justo libero ornare sapien, eu maximus arcu sem nec nibh.
 
-### Appareances
+### Appearances
 
 Maecenas nec magna consequat, laoreet eros sed, malesuada velit. Morbi tincidunt faucibus dolor, eget tempus nulla aliquam sit amet. Nunc at magna sit amet nulla vestibulum pulvinar sed in risus. Curabitur in iaculis enim. In pellentesque varius arcu, in cursus erat volutpat et. In hac habitasse platea dictumst. Cras commodo orci laoreet arcu porttitor, at volutpat massa bibendum. Suspendisse imperdiet interdum dolor, et convallis nibh mollis vitae. In efficitur, leo nec viverra viverra, justo libero ornare sapien, eu maximus arcu sem nec nibh.
