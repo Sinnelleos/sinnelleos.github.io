@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-the-strange-case-of-dr-jekyll-and-mr-hyde-my-thoughts",
+        },{id: "post-at-the-existentialist-café-my-thoughts",
+        
+          title: "At the Existentialist Café, my thoughts",
+        
+        description: "My impressions after reading &quot;At the Existentialist Café&quot; by Sarah Bakewell.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/existentialist-cafe-thoughts/";
+          
+        },
+      },{id: "post-the-strange-case-of-dr-jekyll-and-mr-hyde-my-thoughts",
         
           title: "The Strange Case of Dr. Jekyll and Mr. Hyde, my thoughts",
         
@@ -77,8 +88,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dr-jekyll-and-mr-hyde/";
-            },},{id: "books-at-the-existentialist-café",
-          title: 'At the Existentialist Café',
+            },},{id: "books-at-the-existentialist-café-freedom-being-and-apricot-cocktails",
+          title: 'At the Existentialist Café: Freedom, Being and Apricot Cocktails',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/existentialist-cafe/";
@@ -87,16 +98,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/exploracion-patagonia-1/";
+            },},{id: "books-frankenstein",
+          title: 'Frankenstein',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/frankenstein/";
             },},{id: "books-the-ghost-in-the-machine",
           title: 'The Ghost in the Machine',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/ghost-in-the-machine/";
+            },},{id: "books-the-picture-of-dorian-gray",
+          title: 'The Picture of Dorian Gray',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/picture-of-dorian-gray/";
             },},{id: "books-the-influence-of-sea-power-upon-history-1660-1783",
           title: 'The Influence of Sea Power upon History, 1660-1783',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/sea-power-history/";
+            },},{id: "books-the-metamorphosis",
+          title: 'The Metamorphosis',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the-metamorphosis/";
             },},{
         id: 'social-discord',
         title: 'Discord',
