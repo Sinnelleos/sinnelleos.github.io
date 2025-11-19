@@ -1,17 +1,17 @@
 ---
 layout: book-review
-title: At the Existentialist Café
+title: "At the Existentialist Café: Freedom, Being and Apricot Cocktails"
 author: Sarah Bakewell
 cover: assets/img/book_covers/existentialist-cafe.jpg
 isbn: 9780701186586
-tags: Existentialism
+tags: [existentialism]
 categories: [books, philosophy]
 buy_link: https://www.amazon.com/gp/product/0701186585
 started: 2025-10-29
-finished:
+finished: 2025-11-12
 released: 2016
-stars:
-status: Reading
+stars: 4
+status: Finished
 ---
 
 > Paris, near the turn of 1933. Three young friends meet over apricot cocktails at the Bec-de-Gaz bar on the rue Montparnasse. They are Jean-Paul Sartre, Simone de Beauvoir and their friend Raymond Aron, who opens their eyes to a radical new way of thinking. Pointing to his drink, he says, 'You can make philosophy out of this cocktail!'
@@ -22,4 +22,4 @@ status: Reading
 >
 > -- Goodreads
 
-Link to my blog post.
+[Link to my blog post](https://sinne.link/blog/2025/existentialist-cafe-thoughts/).
