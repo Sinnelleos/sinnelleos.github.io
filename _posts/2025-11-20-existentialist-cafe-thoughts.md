@@ -1,7 +1,7 @@
 ---
 layout: post
 title: At the Existentialist Café, my thoughts
-date: 2025-11-20 08:25:00-0300
+date: 2025-11-20 10:05:00-0300
 description: My impressions after reading "At the Existentialist Café" by Sarah Bakewell.
 tags: philosophy nonfiction history biography
 categories: [book reviews]
