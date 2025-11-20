@@ -23,18 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-at-the-existentialist-café-my-thoughts",
-        
-          title: "At the Existentialist Café, my thoughts",
-        
-        description: "My impressions after reading &quot;At the Existentialist Café&quot; by Sarah Bakewell.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/existentialist-cafe-thoughts/";
-          
-        },
-      },{id: "post-the-strange-case-of-dr-jekyll-and-mr-hyde-my-thoughts",
+        },{id: "post-the-strange-case-of-dr-jekyll-and-mr-hyde-my-thoughts",
         
           title: "The Strange Case of Dr. Jekyll and Mr. Hyde, my thoughts",
         
